@@ -11,8 +11,8 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left"  height="250" width="250" ![sssssssss](https://github.com/Leandr0Dinizz/Leandr0Dinizz/assets/123025975/04bbdd83-07e9-4695-833f-fb01ebbea061)">
-    <h1 align="center">Linguagens que estudo🤖 </h1>
+    <img align="left"  ![agr vai](https://github.com/Leandr0Dinizz/Leandr0Dinizz/assets/123025975/34d4e9c7-ce1d-4390-ba6a-1622b6c5b1d0)
+    <h1 align="center"> Linguagens que estudo</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="c#-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -28,4 +28,4 @@
   <a href="https://www.linkedin.com/in/leandro-diniz-31532b196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leandr0Dinizz/Leandr0Dinizz/blob/output/github-contribution-grid-snake.svg)
