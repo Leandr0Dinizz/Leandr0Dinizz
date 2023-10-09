@@ -1,10 +1,9 @@
+@@ -1,20 +1,20 @@
 name: Generate Datas
-
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     name: Jobs to update datas
@@ -14,6 +13,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
+          github_user_name: ellen2121
           github_user_name: Leandr0Dinizz
           svg_out_path: dist/github-contribution-grid-snake.svg
 
